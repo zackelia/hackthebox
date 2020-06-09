@@ -11,6 +11,7 @@ Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/46
 <table>
   <tr>
     <td align="center"><a href="Mango/README.md"><img src="https://www.hackthebox.eu/storage/avatars/3609b9c723930cd9b1f855d18e92032b.png" width="100px;" alt=""/><br /><sub><b>Mango</b></sub></a></td>
+    <td align="center"><a href="Nest/README.md"><img src="https://www.hackthebox.eu/storage/avatars/0b1bebcefe0bf8cf8c31de8f8e5b76dc.png" width="100px;" alt=""/><br /><sub><b>Nest</b></sub></a></td>
     <td align="center"><a href="Obscurity/README.md"><img src="https://www.hackthebox.eu/storage/avatars/8c606d79541774c87ab0ee5705821323.png" width="100px;" alt=""/><br /><sub><b>Obscurity</b></sub></a></td>
     <td align="center"><a href="OpenAdmin/README.md"><img src="https://www.hackthebox.eu/storage/avatars/5b00db157dbbd7099ff6c0ef10f910ea.png" width="100px;" alt=""/><br /><sub><b>OpenAdmin</b></sub></a></td>
     <td align="center"><a href="Postman/README.md"><img src="https://www.hackthebox.eu/storage/avatars/ad38e890e4e93afce51118bec4b9f48b.png" width="100px;" alt=""/><br /><sub><b>Postman</b></sub></a></td>
