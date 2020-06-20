@@ -19,6 +19,7 @@ Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/46
     <td align="center"><a href="Machines/Resolute/README.md"><img src="https://www.hackthebox.eu/storage/avatars/4c86a642ea237dfde036963e6d182b40.png" width="100px;" alt=""/><br /><sub><b>Resolute</b></sub></a></td> 
   </tr>
   <tr>
+    <td align="center"><a href="Machines/ServMon/README.md"><img src="https://www.hackthebox.eu/storage/avatars/2bc1a8dc04b09b8ac2db694f25ccf051.png" width="100px;" alt=""/><br /><sub><b>ServMon</b></sub></a></td> 
     <td align="center"><a href="Machines/Traverxec/README.md"><img src="https://www.hackthebox.eu/storage/avatars/6ce5fcdd63f07a5ce91d0b8e4579b163.png" width="100px;" alt=""/><br /><sub><b>Traverxec</b></sub></a></td> 
   </tr>
 </table>
